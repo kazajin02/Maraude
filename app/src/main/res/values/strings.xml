@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maraude</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="register_title">S\'inscrire tout de suite</string>
+    <string name="pseudo">Se connecter</string>
+    <string name="password">Se connecter</string>
+    <string name="email">Se connecter</string>
+    <string name="password2">Se connecter</string>
+</resources>
