@@ -3,8 +3,8 @@
     <string name="login">Se connecter</string>
     <string name="register">S\'inscrire</string>
     <string name="register_title">S\'inscrire tout de suite</string>
-    <string name="pseudo">Se connecter</string>
-    <string name="password">Se connecter</string>
-    <string name="email">Se connecter</string>
-    <string name="password2">Se connecter</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="password2">V</string>
 </resources>
